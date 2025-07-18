@@ -10,6 +10,6 @@ Programme politique argumenté, mystique et rationnel, pour une France à bout d
 
 
 
-[Le manifeste](https://kerbonn.github.io/La-Guerre-des-Francs/)
+[Le manifeste](https://kerbonn.github.io/La-Guerre-des-Francs/Manifeste.pdf)
 
 
