@@ -4,4 +4,4 @@ Programme politique argumenté, mystique et rationnel, pour une France à bout d
 
 **Date de publication :** 18 juillet 2025
 
-[Accéder au PDF](La-Guerre-des-Francs.pdf)
+[Accéder au PDF](La-Guerre-des-Francs/blob/main/La Guerre des Francs.pdf)
