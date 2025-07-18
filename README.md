@@ -4,7 +4,7 @@ Programme politique argumenté, mystique et rationnel, pour une France à bout d
 
 **Date de publication :** 18 juillet 2025
 
-[Le manifeste](La%20Guerre%20des%20Francs.pdf)
+[Le manifeste](La-Guerre-des-Francs.pdf)
 
-[En plein écran](https://github.com/Kerbonn/Au-Royaume-des-Hommes-Libres/raw/main/La%20Guerre%20des%20Francs.pdf)
+[En plein écran](https://github.com/Kerbonn/Au-Royaume-des-Hommes-Libres/raw/main/La-Guerre-des-Francs.pdf)
 
