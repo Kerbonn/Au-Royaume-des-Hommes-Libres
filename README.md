@@ -6,5 +6,5 @@ Programme politique argumenté, mystique et rationnel, pour une France à bout d
 
 [Le manifeste](La-Guerre-des-Francs.pdf)
 
-[En plein écran](https://github.com/Kerbonn/Au-Royaume-des-Hommes-Libres/raw/main/La-Guerre-des-Francs.pdf)
+[En plein écran](https://github.com/Kerbonn/La-Guerre-des-Francs/raw/main/La-Guerre-des-Francs.pdf)
 
